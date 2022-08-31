@@ -1,16 +1,28 @@
-### Hi there 👋
+### 自己紹介
+私は関西学院大学に在学しており、アプリケーション開発に必要な知識や、データ構造とアルゴリズムについて学んでいます。
 
-<!--
-**Ryosuke1025/Ryosuke1025** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 主な開発経験
+1.<br>
+【概要】写真に日付とタイトルを付けて,クラウド上に保存できるアプリを制作<br>
+【個人開発】独学で学び、個人開発を行なった<br>
+【目的】CoreDataというフレームワークを理解しつつ、写真をより記憶に残るようなものにするアプリを制作したいと考えたため<br>
+【利用言語】Swift<br>
+【利用したフレームワーク・ライブラリ】SwiftUI, CoreData, Foundation, PhotosUI<br>
+【開発環境】Xcode<br>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+2.<br>
+【概要】Githubのリポジトリを検索できるアプリを制作<br>
+【個人開発】独学で学び、個人開発を行なった<br>
+【目的】非同期処理を学び,SwiftでAPI通信の実装をしてみたかったため<br>
+【利用言語】Swift<br>
+【利用したフレームワーク・ライブラリ】SwiftUI,　Foundation<br>
+【開発環境】Xcode<br>
+
+3.
+【概要】イベントに日付と場所を指定して<br>
+【個人開発】大学で学び、個人開発を行なった<br>
+【目的】データベースを用いたWebアプリを開発したかったため<br>
+【利用言語】Java, HTML, SQL<br>
+【開発環境】VScode, MySQL<br>
+
