@@ -47,5 +47,5 @@
 | 利用言語 | Swift |
 | 利用したフレームワーク・ライブラリ | UIkit |
 | 開発環境 | Xcode |
-| リポジトリ |[https://github.com/Ryosuke1025/Git_App](https://github.com/Ryosuke1025/Git_App)|
+| リポジトリ |[https://github.com/Ryosuke1025/ios-training-Ryosuke1025](https://github.com/Ryosuke1025/ios-training-Ryosuke1025)|
 
