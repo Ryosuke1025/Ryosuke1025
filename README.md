@@ -40,5 +40,12 @@
 | 開発環境 | Xcode |
 | リポジトリ |[https://github.com/Ryosuke1025/Git_App](https://github.com/Ryosuke1025/Git_App)|
 
-
+# 開発経験(インターン)
+| 概要 | Githubのリポジトリを検索できるアプリ |
+| :----: | :----: |
+| 目的 | チーム開発の経験を得ること。テスタブルなコード設計と適切なテストコードの実装をすることによってアプリの品質を底上げできるようになること。スレッド管理や適切なエラーハンドリングや最適なUIなどを学び、ユーザーライクな設計にできるようにすること。またConcurrencyなどのモダンな技術について学んだ。 |
+| 利用言語 | Swift |
+| 利用したフレームワーク・ライブラリ | UIkit |
+| 開発環境 | Xcode |
+| リポジトリ |[https://github.com/Ryosuke1025/Git_App](https://github.com/Ryosuke1025/Git_App)|
 
