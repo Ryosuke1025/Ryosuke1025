@@ -1,5 +1,5 @@
 # About Me
-・iOS App Developer
+・iOS App Developer <br>
 ・I majored in computer science at university and am currently researching recommender systems.
 
 # My Skill
