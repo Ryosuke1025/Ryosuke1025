@@ -3,4 +3,4 @@
 ・I majored in computer science at university and am currently researching recommender systems.
 
 # My Skill
-[![My Skills](https://skillicons.dev/icons?i=swift,c,cpp,java,python,jupyter,firebase,mysql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=swift,c,cpp,java,python,firebase,mysql)](https://skillicons.dev)
